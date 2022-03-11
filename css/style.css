@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2? family= Bebas+Neue & family= BhuTuka+Expanded+One & family= Poppins:ital,wght@1,100 & display=swap');
+fieldset{
+  display: inline; color: rgb(246, 249, 255); background: rgb(170, 221, 229);text-transform: uppercase;
+}
+*{margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+  background-image: url(../images/cidade.jpeg); background-attachment: fixed;background-size: cover;
+}
+
+
+h1{ 
+  font-weight: 900; font-size: 90px;
+ text-transform: lowercase; text-align: center;  background-color: rgba(245, 238, 238, 0.884); color: white;
+word-spacing: 5px;text-decoration: none;
+
+}
+
+p{
+    font-size: large;  text-transform: uppercase; font-family: Arial, Helvetica, sans-serif; 
+}
+h5{
+  font-weight:300 ;
+}
+::placeholder{
+   color: aliceblue;
+}
